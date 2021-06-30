@@ -4,7 +4,7 @@
  
  ## 启动
  
-  yarn start 
+  cd main & yarn start 
   
  ## 对应路由
  
